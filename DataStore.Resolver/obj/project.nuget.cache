@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUWrVbKw7wO3EVoNOtCJ/aSxsdTqUp82ItaCWpx5Qr5/4HUbZ+N0ahcNRRkAVnFmSNk0cDptckxRhJcZ9Vf0tQ==",
+  "success": true,
+  "projectFilePath": "E:\\Personal\\SparkyFlash\\github\\public\\dynamic-dll-loading-with-ioc\\DataStore.Resolver\\DataStore.Resolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.composition.attributedmodel\\5.0.1\\system.composition.attributedmodel.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.composition.hosting\\5.0.1\\system.composition.hosting.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.composition.runtime\\5.0.1\\system.composition.runtime.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.composition.typedparts\\5.0.1\\system.composition.typedparts.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\bin\Debug\netstandard2.0\DataStore.deps.json
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\bin\Debug\netstandard2.0\DataStore.dll
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\bin\Debug\netstandard2.0\DataStore.pdb
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\obj\Debug\netstandard2.0\DataStore.csprojAssemblyReference.cache
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfoInputs.cache
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfo.cs
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\obj\Debug\netstandard2.0\DataStore.csproj.CoreCompileInputs.cache
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\obj\Debug\netstandard2.0\DataStore.dll
+E:\Personal\SparkyFlash\github\public\ioc-in-your-dotnet-project\DataStore.Service\DataStore\obj\Debug\netstandard2.0\DataStore.pdb
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\bin\Debug\netstandard2.0\DataStore.deps.json
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\bin\Debug\netstandard2.0\DataStore.dll
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\bin\Debug\netstandard2.0\DataStore.pdb
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfoInputs.cache
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfo.cs
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\obj\Debug\netstandard2.0\DataStore.csproj.CoreCompileInputs.cache
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\obj\Debug\netstandard2.0\DataStore.dll
+E:\Personal\SparkyFlash\github\public\dynamic-dll-loading-with-ioc\DataStore\obj\Debug\netstandard2.0\DataStore.pdb

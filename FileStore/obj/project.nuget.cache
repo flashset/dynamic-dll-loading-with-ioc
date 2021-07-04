@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2aVXNoRJNtnhXCeNlUj9qTNfSx3JnIDqSQW2YbBCxdRSRn9Hq4VHlKXENIGv062XKDK+HI+MmrK5EiZ+i0DnlA==",
+  "success": true,
+  "projectFilePath": "E:\\Personal\\SparkyFlash\\github\\public\\dynamic-dll-loading-with-ioc\\FileStore\\FileStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.composition.attributedmodel\\5.0.1\\system.composition.attributedmodel.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
